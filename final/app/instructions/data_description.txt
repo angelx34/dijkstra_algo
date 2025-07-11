@@ -1,0 +1,17 @@
+To document your work on this phase, you should create a file named `data_description.txt` that contains the following information:
+* Bibliographic information about the dataset (i.e., source url, authors/owners)
+* Number of nodes and edges
+* Qualities of the graph:  directed or undirected; self-edges ok?  duplicate edges ok? other choices made?
+
+Bibliographic Information:
+- Source URL: https://snap.stanford.edu/data/roadNet-PA.html 
+- Authors/Owners: J. Leskovec, K. Lang, A. Dasgupta, M. Mahoney. 
+
+Citation: J. Leskovec, K. Lang, A. Dasgupta, M. Mahoney. Community Structure in Large Networks: Natural Cluster Sizes and the Absence of Large Well-Defined Clusters. Internet Mathematics 6(1) 29--123, 2009
+
+Number of nodes and edges:
+- Number of nodes: 1088092
+- Number of edges: 1541898
+
+Qualities of the graph:
+- Undirected
